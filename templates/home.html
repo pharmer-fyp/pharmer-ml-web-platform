@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div style="background-color: #008037;" class="jumbotron jumbotron-fluid">
+
+  <div class="container">
+    <h1 class="display-4" style="color:white;">Welcome!</h1>
+    <p class="lead" style="color: white;">P.H.A.R.M.E.R (Precision Home Agriculture and Refined Market Evaluation
+      Resource)</p>
+    <p class="lead" style="color: white;">We help you predict a crop's yield and production value, along with
+      temperature and rainfall forecast.</p>
+    <p class="lead" style="color: white;">So, you can make an informed decsion.</p>
+    <div class="dropdown">
+      <button class="btn btn-secondary btn-lg dropdown-toggle" type="button" data-toggle="dropdown">Start Predicting
+        <span class="caret"></span></button>
+      <ul class="dropdown-menu">
+        <li><a href="{% url 'cropyield_view' %}">Crop Yield</a></li>
+        <li><a href="{% url 'cropvalue_view' %}">Farm-Gate/Production Value</a></li>
+        <li><a href="{% url 'temprf_view' %}">Rainfall and Temperature Forecast</a></li>
+      </ul>
+    </div>
+
+  </div>
+
+</div>
+
+{% endblock %}

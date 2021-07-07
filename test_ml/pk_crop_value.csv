@@ -1,0 +1,1947 @@
+crop,year,value,crop_val
+"Almonds, with shell",1991,1168830,0
+"Almonds, with shell",1992,1388520,0
+"Almonds, with shell",1993,2437618,0
+"Almonds, with shell",1994,2673166,0
+"Almonds, with shell",1995,2776848,0
+"Almonds, with shell",1996,2369088,0
+"Almonds, with shell",1997,2216025,0
+"Almonds, with shell",1998,1972168,0
+"Almonds, with shell",1999,2481994,0
+"Almonds, with shell",2000,2586880,0
+"Almonds, with shell",2001,2538566,0
+"Almonds, with shell",2002,1302210,0
+"Almonds, with shell",2003,3206763,0
+"Almonds, with shell",2004,3303665,0
+"Almonds, with shell",2005,3215278,0
+"Almonds, with shell",2006,3268160,0
+"Almonds, with shell",2007,3390390,0
+"Almonds, with shell",2008,3965486,0
+"Almonds, with shell",2009,4237200,0
+"Almonds, with shell",2010,3968042,0
+"Almonds, with shell",2011,4578945,0
+"Almonds, with shell",2012,4568239,0
+"Almonds, with shell",2013,5296948,0
+"Almonds, with shell",2014,5419921,0
+"Almonds, with shell",2015,5484583,0
+"Almonds, with shell",2016,5755148,0
+"Almonds, with shell",2017,6161481,0
+"Almonds, with shell",2018,6181983,0
+Apples,1991,6948613,1
+Apples,1992,6838679,1
+Apples,1993,9002738,1
+Apples,1994,11381792,1
+Apples,1995,12951292,1
+Apples,1996,14467103,1
+Apples,1997,14398183,1
+Apples,1998,12802130,1
+Apples,1999,9545564,1
+Apples,2000,12068430,1
+Apples,2001,9639234,1
+Apples,2002,5874325,1
+Apples,2003,12073081,1
+Apples,2004,12802704,1
+Apples,2005,12995584,1
+Apples,2006,13240720,1
+Apples,2007,17663000,1
+Apples,2008,18524604,1
+Apples,2009,16486200,1
+Apples,2010,25241040,1
+Apples,2011,33893929,1
+Apples,2012,31451495,1
+Apples,2013,38143786,1
+Apples,2014,40969971,1
+Apples,2015,41267453,1
+Apples,2016,47690238,1
+Apples,2017,42452270,1
+Apples,2018,43257621,1
+Apricots,1991,1189153,2
+Apricots,1992,1800931,2
+Apricots,1993,1713103,2
+Apricots,1994,2150847,2
+Apricots,1995,2382925,2
+Apricots,1996,2891469,2
+Apricots,1997,3103783,2
+Apricots,1998,3082260,2
+Apricots,1999,1623738,2
+Apricots,2000,1381632,2
+Apricots,2001,1306345,2
+Apricots,2002,2399450,2
+Apricots,2003,5630549,2
+Apricots,2004,5778120,2
+Apricots,2005,5349122,2
+Apricots,2006,5039672,2
+Apricots,2007,7354679,2
+Apricots,2008,7737711,2
+Apricots,2009,7068579,2
+Apricots,2010,6104966,2
+Apricots,2011,7170574,2
+Apricots,2012,6748839,2
+Apricots,2013,7477335,2
+Apricots,2014,7575010,2
+Apricots,2015,7692151,2
+Apricots,2016,7899434,2
+Apricots,2017,7125470,2
+Apricots,2018,5746527,2
+Bananas,1991,260130,3
+Bananas,1992,456792,3
+Bananas,1993,618149,3
+Bananas,1994,726489,3
+Bananas,1995,786060,3
+Bananas,1996,832437,3
+Bananas,1997,893988,3
+Bananas,1998,1182042,3
+Bananas,1999,62744,3
+Bananas,2000,1496870,3
+Bananas,2001,1364409,3
+Bananas,2002,1173882,3
+Bananas,2003,1360980,3
+Bananas,2004,1677120,3
+Bananas,2005,1428331,3
+Bananas,2006,1602075,3
+Bananas,2007,1579725,3
+Bananas,2008,1737582,3
+Bananas,2009,2517104,3
+Bananas,2010,2941675,3
+Bananas,2011,3116569,3
+Bananas,2012,2160573,3
+Bananas,2013,2878919,3
+Bananas,2014,3122668,3
+Bananas,2015,3107674,3
+Bananas,2016,3793838,3
+Bananas,2017,4090180,3
+Bananas,2018,4253764,3
+Barley,1991,550250,4
+Barley,1992,629550,4
+Barley,1993,779628,4
+Barley,1994,586443,4
+Barley,1995,717500,4
+Barley,1996,1042040,4
+Barley,1997,937500,4
+Barley,1998,1253520,4
+Barley,1999,999585,4
+Barley,2000,881250,4
+Barley,2001,708223,4
+Barley,2002,733530,4
+Barley,2003,776880,4
+Barley,2004,780800,4
+Barley,2005,751940,4
+Barley,2006,787500,4
+Barley,2007,927000,4
+Barley,2008,900220,4
+Barley,2009,1705388,4
+Barley,2010,1610070,4
+Barley,2011,1893313,4
+Barley,2012,1745008,4
+Barley,2013,1986808,4
+Barley,2014,2073789,4
+Barley,2015,1960453,4
+Barley,2016,2024994,4
+Barley,2017,2050551,4
+Barley,2018,2060858,4
+"Beans, dry",1991,616700,5
+"Beans, dry",1992,659525,5
+"Beans, dry",1993,676147,5
+"Beans, dry",1994,898065,5
+"Beans, dry",1995,1055088,5
+"Beans, dry",1996,1063031,5
+"Beans, dry",1997,1433865,5
+"Beans, dry",1998,1407661,5
+"Beans, dry",1999,1352441,5
+"Beans, dry",2000,1584274,5
+"Beans, dry",2001,2018118,5
+"Beans, dry",2002,1698115,5
+"Beans, dry",2003,1763090,5
+"Beans, dry",2004,1613934,5
+"Beans, dry",2005,1429406,5
+"Beans, dry",2006,1742160,5
+"Beans, dry",2007,2396784,5
+"Beans, dry",2008,2117472,5
+"Beans, dry",2009,1670269,5
+"Beans, dry",2010,1247445,5
+"Beans, dry",2011,1747138,5
+"Beans, dry",2012,1692724,5
+"Beans, dry",2013,1927420,5
+"Beans, dry",2014,2129075,5
+"Beans, dry",2015,2184479,5
+"Beans, dry",2016,2902976,5
+"Beans, dry",2017,2886430,5
+"Beans, dry",2018,2947354,5
+"Beans, green",1991,110974,6
+"Beans, green",1992,213004,6
+"Beans, green",1993,110681,6
+"Beans, green",1994,127107,6
+"Beans, green",1995,134433,6
+"Beans, green",1996,169198,6
+"Beans, green",1997,226021,6
+"Beans, green",1998,361210,6
+"Beans, green",1999,127302,6
+"Beans, green",2000,180330,6
+"Beans, green",2001,180189,6
+"Beans, green",2002,96623,6
+"Beans, green",2003,89046,6
+"Beans, green",2004,83138,6
+"Beans, green",2005,93807,6
+"Beans, green",2006,94038,6
+"Beans, green",2007,104016,6
+"Beans, green",2008,101963,6
+"Beans, green",2009,109355,6
+"Beans, green",2010,124267,6
+"Beans, green",2011,176166,6
+"Beans, green",2012,112749,6
+"Beans, green",2013,153487,6
+"Beans, green",2014,213777,6
+"Beans, green",2015,200278,6
+"Beans, green",2016,216608,6
+"Beans, green",2017,231017,6
+"Beans, green",2018,247520,6
+Cabbages and other brassicas,1991,37825,7
+Cabbages and other brassicas,1992,80737,7
+Cabbages and other brassicas,1993,82714,7
+Cabbages and other brassicas,1994,123452,7
+Cabbages and other brassicas,1995,123879,7
+Cabbages and other brassicas,1996,187669,7
+Cabbages and other brassicas,1997,220148,7
+Cabbages and other brassicas,1998,362990,7
+Cabbages and other brassicas,1999,133762,7
+Cabbages and other brassicas,2000,232427,7
+Cabbages and other brassicas,2001,234450,7
+Cabbages and other brassicas,2002,185405,7
+Cabbages and other brassicas,2003,273959,7
+Cabbages and other brassicas,2004,316396,7
+Cabbages and other brassicas,2005,351000,7
+Cabbages and other brassicas,2006,390715,7
+Cabbages and other brassicas,2007,431296,7
+Cabbages and other brassicas,2008,411518,7
+Cabbages and other brassicas,2009,430751,7
+Cabbages and other brassicas,2010,456583,7
+Cabbages and other brassicas,2011,578958,7
+Cabbages and other brassicas,2012,569363,7
+Cabbages and other brassicas,2013,665430,7
+Cabbages and other brassicas,2014,705781,7
+Cabbages and other brassicas,2015,707307,7
+Cabbages and other brassicas,2016,757842,7
+Cabbages and other brassicas,2017,825584,7
+Cabbages and other brassicas,2018,874375,7
+Carrots and turnips,1991,673468,8
+Carrots and turnips,1992,1367595,8
+Carrots and turnips,1993,692080,8
+Carrots and turnips,1994,1671123,8
+Carrots and turnips,1995,1683492,8
+Carrots and turnips,1996,2346096,8
+Carrots and turnips,1997,2699664,8
+Carrots and turnips,1998,4416453,8
+Carrots and turnips,1999,1549974,8
+Carrots and turnips,2000,2613170,8
+Carrots and turnips,2001,2420689,8
+Carrots and turnips,2002,2111379,8
+Carrots and turnips,2003,2920806,8
+Carrots and turnips,2004,3409650,8
+Carrots and turnips,2005,3905656,8
+Carrots and turnips,2006,4058844,8
+Carrots and turnips,2007,4325728,8
+Carrots and turnips,2008,4386999,8
+Carrots and turnips,2009,4609522,8
+Carrots and turnips,2010,4773312,8
+Carrots and turnips,2011,6111829,8
+Carrots and turnips,2012,6002407,8
+Carrots and turnips,2013,6832928,8
+Carrots and turnips,2014,7230280,8
+Carrots and turnips,2015,6757529,8
+Carrots and turnips,2016,7288910,8
+Carrots and turnips,2017,7849028,8
+Carrots and turnips,2018,8249737,8
+Castor oil seed,1991,10460,9
+Castor oil seed,1992,29795,9
+Castor oil seed,1993,9815,9
+Castor oil seed,1994,57520,9
+Castor oil seed,1995,63092,9
+Castor oil seed,1996,38591,9
+Castor oil seed,1997,43517,9
+Castor oil seed,1998,74033,9
+Castor oil seed,1999,25830,9
+Castor oil seed,2000,10181,9
+Castor oil seed,2001,14181,9
+Castor oil seed,2002,18233,9
+Castor oil seed,2003,41438,9
+Castor oil seed,2004,34820,9
+Castor oil seed,2005,36558,9
+Castor oil seed,2006,51660,9
+Castor oil seed,2007,43542,9
+Castor oil seed,2008,79484,9
+Castor oil seed,2009,16547,9
+Castor oil seed,2010,88784,9
+Castor oil seed,2011,123468,9
+Castor oil seed,2012,135389,9
+Castor oil seed,2013,141360,9
+Castor oil seed,2014,93790,9
+Castor oil seed,2015,67333,9
+Castor oil seed,2016,70162,9
+Castor oil seed,2017,74094,9
+Castor oil seed,2018,69583,9
+Cauliflowers and broccoli,1991,350156,10
+Cauliflowers and broccoli,1992,677986,10
+Cauliflowers and broccoli,1993,709317,10
+Cauliflowers and broccoli,1994,983533,10
+Cauliflowers and broccoli,1995,971069,10
+Cauliflowers and broccoli,1996,1309780,10
+Cauliflowers and broccoli,1997,1472202,10
+Cauliflowers and broccoli,1998,2437175,10
+Cauliflowers and broccoli,1999,885017,10
+Cauliflowers and broccoli,2000,1543673,10
+Cauliflowers and broccoli,2001,1447888,10
+Cauliflowers and broccoli,2002,1265070,10
+Cauliflowers and broccoli,2003,1700496,10
+Cauliflowers and broccoli,2004,1940624,10
+Cauliflowers and broccoli,2005,2181304,10
+Cauliflowers and broccoli,2006,2270324,10
+Cauliflowers and broccoli,2007,2515110,10
+Cauliflowers and broccoli,2008,2572971,10
+Cauliflowers and broccoli,2009,2920511,10
+Cauliflowers and broccoli,2010,2933839,10
+Cauliflowers and broccoli,2011,3689473,10
+Cauliflowers and broccoli,2012,3794516,10
+Cauliflowers and broccoli,2013,4130362,10
+Cauliflowers and broccoli,2014,4197672,10
+Cauliflowers and broccoli,2015,4144083,10
+Cauliflowers and broccoli,2016,4419052,10
+Cauliflowers and broccoli,2017,4683343,10
+Cauliflowers and broccoli,2018,4841026,10
+Cherries,1991,13375,11
+Cherries,1992,16372,11
+Cherries,1993,27305,11
+Cherries,1994,33396,11
+Cherries,1995,41658,11
+Cherries,1996,63914,11
+Cherries,1997,64128,11
+Cherries,1998,63702,11
+Cherries,1999,35569,11
+Cherries,2000,57410,11
+Cherries,2001,55583,11
+Cherries,2002,52734,11
+Cherries,2003,76815,11
+Cherries,2004,80436,11
+Cherries,2005,85131,11
+Cherries,2006,68673,11
+Cherries,2007,106516,11
+Cherries,2008,106924,11
+Cherries,2009,95232,11
+Cherries,2010,105033,11
+Cherries,2011,123857,11
+Cherries,2012,125342,11
+Cherries,2013,138287,11
+Cherries,2014,149338,11
+Cherries,2015,153648,11
+Cherries,2016,168960,11
+Cherries,2017,172340,11
+Cherries,2018,173319,11
+Chick peas,1991,3982500,12
+Chick peas,1992,3917792,12
+Chick peas,1993,2570020,12
+Chick peas,1994,3697532,12
+Chick peas,1995,5306309,12
+Chick peas,1996,6563577,12
+Chick peas,1997,7961394,12
+Chick peas,1998,10008354,12
+Chick peas,1999,8533921,12
+Chick peas,2000,7359387,12
+Chick peas,2001,5994700,12
+Chick peas,2002,3933130,12
+Chick peas,2003,7715510,12
+Chick peas,2004,7124998,12
+Chick peas,2005,10197142,12
+Chick peas,2006,5800176,12
+Chick peas,2007,11034910,12
+Chick peas,2008,6292536,12
+Chick peas,2009,10240182,12
+Chick peas,2010,8576957,12
+Chick peas,2011,8934314,12
+Chick peas,2012,5115075,12
+Chick peas,2013,15047034,12
+Chick peas,2014,8435402,12
+Chick peas,2015,8025659,12
+Chick peas,2016,6482851,12
+Chick peas,2017,7888910,12
+Chick peas,2018,8188065,12
+"Chillies and peppers, dry",1991,2134500,13
+"Chillies and peppers, dry",1992,1211627,13
+"Chillies and peppers, dry",1993,2519513,13
+"Chillies and peppers, dry",1994,1956314,13
+"Chillies and peppers, dry",1995,2829544,13
+"Chillies and peppers, dry",1996,3708320,13
+"Chillies and peppers, dry",1997,4583062,13
+"Chillies and peppers, dry",1998,4359591,13
+"Chillies and peppers, dry",1999,3918835,13
+"Chillies and peppers, dry",2000,6349322,13
+"Chillies and peppers, dry",2001,3238315,13
+"Chillies and peppers, dry",2002,3424135,13
+"Chillies and peppers, dry",2003,3461219,13
+"Chillies and peppers, dry",2004,3797547,13
+"Chillies and peppers, dry",2005,5365537,13
+"Chillies and peppers, dry",2006,3130040,13
+"Chillies and peppers, dry",2007,5683882,13
+"Chillies and peppers, dry",2008,9252317,13
+"Chillies and peppers, dry",2009,9706727,13
+"Chillies and peppers, dry",2010,9750843,13
+"Chillies and peppers, dry",2011,3167590,13
+"Chillies and peppers, dry",2012,9843579,13
+"Chillies and peppers, dry",2013,10861619,13
+"Chillies and peppers, dry",2014,10978536,13
+"Chillies and peppers, dry",2015,11189465,13
+"Chillies and peppers, dry",2016,11973713,13
+"Chillies and peppers, dry",2017,12695047,13
+"Chillies and peppers, dry",2018,13943566,13
+Coconuts,1991,1526,14
+Coconuts,1992,2742,14
+Coconuts,1993,3838,14
+Coconuts,1994,6775,14
+Coconuts,1995,7511,14
+Coconuts,1996,22480,14
+Coconuts,1997,51694,14
+Coconuts,1998,50484,14
+Coconuts,1999,59950,14
+Coconuts,2000,42650,14
+Coconuts,2001,42430,14
+Coconuts,2002,41844,14
+Coconuts,2003,46615,14
+Coconuts,2004,49940,14
+Coconuts,2005,51977,14
+Coconuts,2006,53889,14
+Coconuts,2007,82071,14
+Coconuts,2008,81430,14
+Coconuts,2009,72977,14
+Coconuts,2010,80069,14
+Coconuts,2011,95437,14
+Coconuts,2012,95164,14
+Coconuts,2013,105914,14
+Coconuts,2014,112039,14
+Coconuts,2015,112286,14
+Coconuts,2016,118116,14
+Coconuts,2017,123445,14
+Coconuts,2018,131151,14
+Cucumbers and gherkins,1991,27725,15
+Cucumbers and gherkins,1992,53062,15
+Cucumbers and gherkins,1993,50588,15
+Cucumbers and gherkins,1994,57603,15
+Cucumbers and gherkins,1995,56539,15
+Cucumbers and gherkins,1996,75349,15
+Cucumbers and gherkins,1997,96967,15
+Cucumbers and gherkins,1998,169289,15
+Cucumbers and gherkins,1999,19575,15
+Cucumbers and gherkins,2000,26712,15
+Cucumbers and gherkins,2001,23901,15
+Cucumbers and gherkins,2002,15107,15
+Cucumbers and gherkins,2003,29602,15
+Cucumbers and gherkins,2004,40464,15
+Cucumbers and gherkins,2005,53394,15
+Cucumbers and gherkins,2006,57684,15
+Cucumbers and gherkins,2007,51120,15
+Cucumbers and gherkins,2008,69704,15
+Cucumbers and gherkins,2009,393028,15
+Cucumbers and gherkins,2010,467986,15
+Cucumbers and gherkins,2011,612736,15
+Cucumbers and gherkins,2012,629821,15
+Cucumbers and gherkins,2013,704227,15
+Cucumbers and gherkins,2014,781795,15
+Cucumbers and gherkins,2015,805311,15
+Cucumbers and gherkins,2016,940018,15
+Cucumbers and gherkins,2017,1099900,15
+Cucumbers and gherkins,2018,1218589,15
+Dates,1991,4100572,16
+Dates,1992,5585687,16
+Dates,1993,9124284,16
+Dates,1994,11585944,16
+Dates,1995,11995261,16
+Dates,1996,12158305,16
+Dates,1997,12698130,16
+Dates,1998,18834882,16
+Dates,1999,11641091,16
+Dates,2000,13933966,16
+Dates,2001,13690334,16
+Dates,2002,15000000,16
+Dates,2003,11790958,16
+Dates,2004,17427312,16
+Dates,2005,14152416,16
+Dates,2006,13640992,16
+Dates,2007,22300960,16
+Dates,2008,27187200,16
+Dates,2009,27621932,16
+Dates,2010,29346296,16
+Dates,2011,36800749,16
+Dates,2012,34602841,16
+Dates,2013,38680327,16
+Dates,2014,41633589,16
+Dates,2015,36294872,16
+Dates,2016,36459617,16
+Dates,2017,38644319,16
+Dates,2018,41495082,16
+Eggplants (aubergines),1991,127057,17
+Eggplants (aubergines),1992,244174,17
+Eggplants (aubergines),1993,245321,17
+Eggplants (aubergines),1994,282666,17
+Eggplants (aubergines),1995,269723,17
+Eggplants (aubergines),1996,370044,17
+Eggplants (aubergines),1997,444469,17
+Eggplants (aubergines),1998,803177,17
+Eggplants (aubergines),1999,296681,17
+Eggplants (aubergines),2000,475227,17
+Eggplants (aubergines),2001,447222,17
+Eggplants (aubergines),2002,424641,17
+Eggplants (aubergines),2003,517484,17
+Eggplants (aubergines),2004,565415,17
+Eggplants (aubergines),2005,633488,17
+Eggplants (aubergines),2006,638440,17
+Eggplants (aubergines),2007,702289,17
+Eggplants (aubergines),2008,712888,17
+Eggplants (aubergines),2009,758928,17
+Eggplants (aubergines),2010,789248,17
+Eggplants (aubergines),2011,944522,17
+Eggplants (aubergines),2012,1000050,17
+Eggplants (aubergines),2013,1028115,17
+Eggplants (aubergines),2014,1070246,17
+Eggplants (aubergines),2015,1082286,17
+Eggplants (aubergines),2016,1154256,17
+Eggplants (aubergines),2017,1229526,17
+Eggplants (aubergines),2018,1352821,17
+Figs,1991,4671,18
+Figs,1992,5082,18
+Figs,1993,7059,18
+Figs,1994,7697,18
+Figs,1995,8672,18
+Figs,1996,12059,18
+Figs,1997,10811,18
+Figs,1998,10823,18
+Figs,1999,10796,18
+Figs,2000,13778,18
+Figs,2001,14682,18
+Figs,2002,14126,18
+Figs,2003,15941,18
+Figs,2004,26206,18
+Figs,2005,16244,18
+Figs,2006,16755,18
+Figs,2007,17990,18
+Figs,2008,19447,18
+Figs,2009,19443,18
+Figs,2010,20636,18
+Figs,2011,21225,18
+Figs,2012,17922,18
+Figs,2013,18775,18
+Figs,2014,20056,18
+Figs,2015,18433,18
+Figs,2016,18183,18
+Figs,2017,11258,18
+Figs,2018,12204,18
+"Fruit, fresh nes",1991,1803663,19
+"Fruit, fresh nes",1992,1740111,19
+"Fruit, fresh nes",1993,1843357,19
+"Fruit, fresh nes",1994,2218419,19
+"Fruit, fresh nes",1995,2857172,19
+"Fruit, fresh nes",1996,2962253,19
+"Fruit, fresh nes",1997,2991010,19
+"Fruit, fresh nes",1998,2504046,19
+"Fruit, fresh nes",1999,3147154,19
+"Fruit, fresh nes",2000,3198328,19
+"Fruit, fresh nes",2001,3038456,19
+"Fruit, fresh nes",2002,2912630,19
+"Fruit, fresh nes",2003,3455391,19
+"Fruit, fresh nes",2004,4334555,19
+"Fruit, fresh nes",2005,4154229,19
+"Fruit, fresh nes",2006,4239309,19
+"Fruit, fresh nes",2007,4566708,19
+"Fruit, fresh nes",2008,4825666,19
+"Fruit, fresh nes",2009,5059163,19
+"Fruit, fresh nes",2010,50102270,19
+"Fruit, fresh nes",2011,53938484,19
+"Fruit, fresh nes",2012,57989362,19
+"Fruit, fresh nes",2013,60094442,19
+"Fruit, fresh nes",2014,68798720,19
+"Fruit, fresh nes",2015,75334991,19
+"Fruit, fresh nes",2016,78866582,19
+"Fruit, fresh nes",2017,77101370,19
+"Fruit, fresh nes",2018,87794182,19
+"Fruit, tropical fresh nes",1991,2433938,20
+"Fruit, tropical fresh nes",1992,2332240,20
+"Fruit, tropical fresh nes",1993,3154566,20
+"Fruit, tropical fresh nes",1994,3206797,20
+"Fruit, tropical fresh nes",1995,3754534,20
+"Fruit, tropical fresh nes",1996,4915628,20
+"Fruit, tropical fresh nes",1997,4958286,20
+"Fruit, tropical fresh nes",1998,4924323,20
+"Fruit, tropical fresh nes",1999,4800007,20
+"Fruit, tropical fresh nes",2000,6734726,20
+"Fruit, tropical fresh nes",2001,6584470,20
+"Fruit, tropical fresh nes",2002,6483488,20
+"Fruit, tropical fresh nes",2003,6948624,20
+"Fruit, tropical fresh nes",2004,11471130,20
+"Fruit, tropical fresh nes",2005,11317905,20
+"Fruit, tropical fresh nes",2006,11720497,20
+"Fruit, tropical fresh nes",2007,12387296,20
+"Fruit, tropical fresh nes",2008,11858572,20
+"Fruit, tropical fresh nes",2009,12293093,20
+"Fruit, tropical fresh nes",2010,14563090,20
+"Fruit, tropical fresh nes",2011,15540369,20
+"Fruit, tropical fresh nes",2012,14723217,20
+"Fruit, tropical fresh nes",2013,17305454,20
+"Fruit, tropical fresh nes",2014,18624352,20
+"Fruit, tropical fresh nes",2015,17212375,20
+"Fruit, tropical fresh nes",2016,18012607,20
+"Fruit, tropical fresh nes",2017,18638781,20
+"Fruit, tropical fresh nes",2018,19322170,20
+Garlic,1991,827948,21
+Garlic,1992,598225,21
+Garlic,1993,991477,21
+Garlic,1994,1168441,21
+Garlic,1995,1099516,21
+Garlic,1996,1061033,21
+Garlic,1997,1665449,21
+Garlic,1998,903498,21
+Garlic,1999,1439633,21
+Garlic,2000,1248017,21
+Garlic,2001,966884,21
+Garlic,2002,1077201,21
+Garlic,2003,1083801,21
+Garlic,2004,1546787,21
+Garlic,2005,2084958,21
+Garlic,2006,2406264,21
+Garlic,2007,2991984,21
+Garlic,2008,3317548,21
+Garlic,2009,7056420,21
+Garlic,2010,9156640,21
+Garlic,2011,10435275,21
+Garlic,2012,10805012,21
+Garlic,2013,12716565,21
+Garlic,2014,14276259,21
+Garlic,2015,16180924,21
+Garlic,2016,16830217,21
+Garlic,2017,18794900,21
+Garlic,2018,21528084,21
+Ginger,1994,489,22
+Ginger,1995,611,22
+Ginger,1996,753,22
+Ginger,1997,557,22
+Ginger,1998,497,22
+Ginger,1999,545,22
+Ginger,2000,538,22
+Ginger,2001,790,22
+Ginger,2002,747,22
+Ginger,2003,885,22
+Ginger,2004,1436,22
+Ginger,2005,1775,22
+Ginger,2006,1128,22
+Ginger,2007,2411,22
+Ginger,2008,4750,22
+Ginger,2009,11100,22
+Ginger,2010,17250,22
+Ginger,2011,1415,22
+Ginger,2012,19964,22
+Ginger,2013,24390,22
+Ginger,2014,26156,22
+Ginger,2015,27019,22
+Ginger,2016,29588,22
+Ginger,2017,31011,22
+Ginger,2018,4973,22
+Grapes,1991,576469,23
+Grapes,1992,649566,23
+Grapes,1993,857289,23
+Grapes,1994,1288230,23
+Grapes,1995,2177032,23
+Grapes,1996,1946254,23
+Grapes,1997,1648623,23
+Grapes,1998,2085820,23
+Grapes,1999,1138475,23
+Grapes,2000,1563253,23
+Grapes,2001,1538352,23
+Grapes,2002,1911000,23
+Grapes,2003,1762634,23
+Grapes,2004,1723058,23
+Grapes,2005,1739791,23
+Grapes,2006,1994127,23
+Grapes,2007,3361457,23
+Grapes,2008,3547549,23
+Grapes,2009,3068707,23
+Grapes,2010,3189281,23
+Grapes,2011,3755268,23
+Grapes,2012,3752956,23
+Grapes,2013,4300948,23
+Grapes,2014,4524979,23
+Grapes,2015,4517927,23
+Grapes,2016,4860145,23
+Grapes,2017,5194658,23
+Grapes,2018,5619942,23
+"Groundnuts, with shell",1991,992233,24
+"Groundnuts, with shell",1992,1355383,24
+"Groundnuts, with shell",1993,1426557,24
+"Groundnuts, with shell",1994,2091720,24
+"Groundnuts, with shell",1995,2253415,24
+"Groundnuts, with shell",1996,2192277,24
+"Groundnuts, with shell",1997,2591324,24
+"Groundnuts, with shell",1998,2340563,24
+"Groundnuts, with shell",1999,2601375,24
+"Groundnuts, with shell",2000,2630035,24
+"Groundnuts, with shell",2001,2777520,24
+"Groundnuts, with shell",2002,2370375,24
+"Groundnuts, with shell",2003,3334903,24
+"Groundnuts, with shell",2004,2369888,24
+"Groundnuts, with shell",2005,2281257,24
+"Groundnuts, with shell",2006,2660400,24
+"Groundnuts, with shell",2007,3085800,24
+"Groundnuts, with shell",2008,3249000,24
+"Groundnuts, with shell",2009,2250360,24
+"Groundnuts, with shell",2010,3288446,24
+"Groundnuts, with shell",2011,5026862,24
+"Groundnuts, with shell",2012,4645988,24
+"Groundnuts, with shell",2013,6409867,24
+"Groundnuts, with shell",2014,5816906,24
+"Groundnuts, with shell",2015,6159363,24
+"Groundnuts, with shell",2016,5117844,24
+"Groundnuts, with shell",2017,6534899,24
+"Groundnuts, with shell",2018,7823654,24
+Jute,1991,602,25
+Jute,1992,45,25
+Jute,1993,391,25
+Jute,1994,443,25
+Jute,1995,330,25
+Jute,1996,396,25
+Jute,1997,442,25
+Jute,1998,387,25
+Jute,1999,380,25
+Jute,2000,373,25
+Jute,2001,340,25
+Jute,2002,356,25
+Jute,2003,335,25
+Jute,2004,320,25
+Jute,2005,379,25
+Jute,2006,355,25
+Jute,2007,328,25
+Jute,2008,311,25
+Jute,2009,304,25
+Jute,2010,336,25
+Jute,2011,422,25
+Jute,2012,422,25
+Jute,2013,470,25
+Jute,2014,434,25
+Jute,2015,434,25
+Jute,2016,432,25
+Jute,2017,421,25
+Jute,2018,445,25
+Lemons and limes,1991,888350,26
+Lemons and limes,1992,834165,26
+Lemons and limes,1993,1618750,26
+Lemons and limes,1994,1710263,26
+Lemons and limes,1995,1399440,26
+Lemons and limes,1996,1500000,26
+Lemons and limes,1997,1650375,26
+Lemons and limes,1998,1545875,26
+Lemons and limes,1999,1655550,26
+Lemons and limes,2000,1782200,26
+Lemons and limes,2001,1634397,26
+Lemons and limes,2002,1336200,26
+Lemons and limes,2003,1293600,26
+Lemons and limes,2004,1445220,26
+Lemons and limes,2005,1859760,26
+Lemons and limes,2006,1897866,26
+Lemons and limes,2007,1202718,26
+Lemons and limes,2008,2048530,26
+Lemons and limes,2009,2243973,26
+Lemons and limes,2010,2443690,26
+Lemons and limes,2011,2656752,26
+Lemons and limes,2012,2878270,26
+Lemons and limes,2013,3121740,26
+Lemons and limes,2014,3357337,26
+Lemons and limes,2015,3772687,26
+Lemons and limes,2016,3476148,26
+Lemons and limes,2017,3514714,26
+Lemons and limes,2018,3039497,26
+Lentils,1991,216920,27
+Lentils,1992,157905,27
+Lentils,1993,160461,27
+Lentils,1994,132392,27
+Lentils,1995,271709,27
+Lentils,1996,415119,27
+Lentils,1997,369914,27
+Lentils,1998,341759,27
+Lentils,1999,303091,27
+Lentils,2000,299629,27
+Lentils,2001,263270,27
+Lentils,2002,635612,27
+Lentils,2003,768690,27
+Lentils,2004,830370,27
+Lentils,2005,696710,27
+Lentils,2006,495963,27
+Lentils,2007,633414,27
+Lentils,2008,443399,27
+Lentils,2009,456130,27
+Lentils,2010,440109,27
+Lentils,2011,628497,27
+Lentils,2012,523133,27
+Lentils,2013,523264,27
+Lentils,2014,448766,27
+Lentils,2015,498202,27
+Lentils,2016,467088,27
+Lentils,2017,423191,27
+Lentils,2018,425158,27
+Lettuce and chicory,1991,756,28
+Lettuce and chicory,1992,1544,28
+Lettuce and chicory,1993,1555,28
+Lettuce and chicory,1994,1736,28
+Lettuce and chicory,1995,1670,28
+Lettuce and chicory,1996,2272,28
+Lettuce and chicory,1997,2880,28
+Lettuce and chicory,1998,4731,28
+Lettuce and chicory,1999,1643,28
+Lettuce and chicory,2000,2406,28
+Lettuce and chicory,2001,1575,28
+Lettuce and chicory,2002,1151,28
+Lettuce and chicory,2003,1385,28
+Lettuce and chicory,2004,1868,28
+Lettuce and chicory,2005,1834,28
+Lettuce and chicory,2006,1988,28
+Lettuce and chicory,2007,3204,28
+Lettuce and chicory,2008,2920,28
+Lettuce and chicory,2009,2682,28
+Lettuce and chicory,2010,3390,28
+Lettuce and chicory,2011,8231,28
+Lettuce and chicory,2012,11682,28
+Lettuce and chicory,2013,13631,28
+Lettuce and chicory,2014,13761,28
+Lettuce and chicory,2015,14543,28
+Lettuce and chicory,2016,16422,28
+Lettuce and chicory,2017,16989,28
+Lettuce and chicory,2018,17482,28
+Linseed,1991,35071,29
+Linseed,1992,38499,29
+Linseed,1993,43457,29
+Linseed,1994,51037,29
+Linseed,1995,51543,29
+Linseed,1996,63365,29
+Linseed,1997,67373,29
+Linseed,1998,88241,29
+Linseed,1999,97442,29
+Linseed,2000,88901,29
+Linseed,2001,51425,29
+Linseed,2002,28548,29
+Linseed,2003,64140,29
+Linseed,2004,67384,29
+Linseed,2005,56276,29
+Linseed,2006,63018,29
+Linseed,2007,89571,29
+Linseed,2008,77121,29
+Linseed,2009,94712,29
+Linseed,2010,89622,29
+Linseed,2011,108098,29
+Linseed,2012,97509,29
+Linseed,2013,113536,29
+Linseed,2014,108127,29
+Linseed,2015,97962,29
+Linseed,2016,107206,29
+Linseed,2017,107834,29
+Linseed,2018,112383,29
+Maize,1991,5521026,30
+Maize,1992,5393665,30
+Maize,1993,5533706,30
+Maize,1994,7485490,30
+Maize,1995,9965504,30
+Maize,1996,10656177,30
+Maize,1997,12982486,30
+Maize,1998,14518800,30
+Maize,1999,13412588,30
+Maize,2000,13171891,30
+Maize,2001,13744615,30
+Maize,2002,14591640,30
+Maize,2003,16744555,30
+Maize,2004,28238512,30
+Maize,2005,31453604,30
+Maize,2006,33972400,30
+Maize,2007,41454050,30
+Maize,2008,42397400,30
+Maize,2009,58132976,30
+Maize,2010,72299573,30
+Maize,2011,99780874,30
+Maize,2012,96946458,30
+Maize,2013,126450050,30
+Maize,2014,133254255,30
+Maize,2015,142445080,30
+Maize,2016,177442341,30
+Maize,2017,180278036,30
+Maize,2018,220708984,30
+"Mangoes, mangosteens, guavas",1991,6925523,31
+"Mangoes, mangosteens, guavas",1992,6376895,31
+"Mangoes, mangosteens, guavas",1993,8511918,31
+"Mangoes, mangosteens, guavas",1994,8791668,31
+"Mangoes, mangosteens, guavas",1995,10316894,31
+"Mangoes, mangosteens, guavas",1996,13684753,31
+"Mangoes, mangosteens, guavas",1997,13603069,31
+"Mangoes, mangosteens, guavas",1998,13156453,31
+"Mangoes, mangosteens, guavas",1999,12143016,31
+"Mangoes, mangosteens, guavas",2000,16409838,31
+"Mangoes, mangosteens, guavas",2001,16537411,31
+"Mangoes, mangosteens, guavas",2002,17372095,31
+"Mangoes, mangosteens, guavas",2003,19269053,31
+"Mangoes, mangosteens, guavas",2004,20063753,31
+"Mangoes, mangosteens, guavas",2005,32642025,31
+"Mangoes, mangosteens, guavas",2006,38586020,31
+"Mangoes, mangosteens, guavas",2007,41260320,31
+"Mangoes, mangosteens, guavas",2008,63419552,31
+"Mangoes, mangosteens, guavas",2009,70801984,31
+"Mangoes, mangosteens, guavas",2010,89479816,31
+"Mangoes, mangosteens, guavas",2011,109116252,31
+"Mangoes, mangosteens, guavas",2012,98254156,31
+"Mangoes, mangosteens, guavas",2013,107220753,31
+"Mangoes, mangosteens, guavas",2014,113308061,31
+"Mangoes, mangosteens, guavas",2015,116073045,31
+"Mangoes, mangosteens, guavas",2016,121679083,31
+"Mangoes, mangosteens, guavas",2017,138774667,31
+"Mangoes, mangosteens, guavas",2018,146145982,31
+"Melons, other (inc.cantaloupes)",1991,941004,32
+"Melons, other (inc.cantaloupes)",1992,1047545,32
+"Melons, other (inc.cantaloupes)",1993,1511125,32
+"Melons, other (inc.cantaloupes)",1994,1896527,32
+"Melons, other (inc.cantaloupes)",1995,1817700,32
+"Melons, other (inc.cantaloupes)",1996,1814803,32
+"Melons, other (inc.cantaloupes)",1997,2178774,32
+"Melons, other (inc.cantaloupes)",1998,2638872,32
+"Melons, other (inc.cantaloupes)",1999,1470766,32
+"Melons, other (inc.cantaloupes)",2000,2263352,32
+"Melons, other (inc.cantaloupes)",2001,1783992,32
+"Melons, other (inc.cantaloupes)",2002,2619117,32
+"Melons, other (inc.cantaloupes)",2003,975775,32
+"Melons, other (inc.cantaloupes)",2004,1004738,32
+"Melons, other (inc.cantaloupes)",2005,941612,32
+"Melons, other (inc.cantaloupes)",2006,1053512,32
+"Melons, other (inc.cantaloupes)",2007,1081968,32
+"Melons, other (inc.cantaloupes)",2008,1240369,32
+"Melons, other (inc.cantaloupes)",2009,1309848,32
+"Melons, other (inc.cantaloupes)",2010,1478263,32
+"Melons, other (inc.cantaloupes)",2011,1648303,32
+"Melons, other (inc.cantaloupes)",2012,1464094,32
+"Melons, other (inc.cantaloupes)",2013,1593207,32
+"Melons, other (inc.cantaloupes)",2014,1141460,32
+"Melons, other (inc.cantaloupes)",2015,677946,32
+"Melons, other (inc.cantaloupes)",2016,71506,32
+"Melons, other (inc.cantaloupes)",2017,76939,32
+"Melons, other (inc.cantaloupes)",2018,84599,32
+Millet,1991,2819771,33
+Millet,1992,3593448,33
+Millet,1993,2043938,33
+Millet,1994,3740426,33
+Millet,1995,3797511,33
+Millet,1996,3768710,33
+Millet,1997,6143970,33
+Millet,1998,6428941,33
+Millet,1999,4796992,33
+Millet,2000,6502325,33
+Millet,2001,7284240,33
+Millet,2002,1778480,33
+Millet,2003,2641205,33
+Millet,2004,1894340,33
+Millet,2005,2185920,33
+Millet,2006,2908360,33
+Millet,2007,5038600,33
+Millet,2008,6257004,33
+Millet,2009,8054750,33
+Millet,2010,10106314,33
+Millet,2011,10457177,33
+Millet,2012,10685718,33
+Millet,2013,11524332,33
+Millet,2014,11900462,33
+Millet,2015,12123347,33
+Millet,2016,13203683,33
+Millet,2017,15512310,33
+Millet,2018,16947404,33
+Nuts nes,1991,173190,34
+Nuts nes,1992,174847,34
+Nuts nes,1993,303744,34
+Nuts nes,1994,298872,34
+Nuts nes,1995,293249,34
+Nuts nes,1996,245809,34
+Nuts nes,1997,232198,34
+Nuts nes,1998,205910,34
+Nuts nes,1999,253220,34
+Nuts nes,2000,412474,34
+Nuts nes,2001,380092,34
+Nuts nes,2002,371479,34
+Nuts nes,2003,365520,34
+Nuts nes,2004,360322,34
+Nuts nes,2005,349718,34
+Nuts nes,2006,367227,34
+Nuts nes,2007,390618,34
+Nuts nes,2008,410910,34
+Nuts nes,2009,611511,34
+Nuts nes,2010,705759,34
+Nuts nes,2011,813151,34
+Nuts nes,2012,782058,34
+Nuts nes,2013,891902,34
+Nuts nes,2014,939075,34
+Nuts nes,2015,839450,34
+Nuts nes,2016,864654,34
+Nuts nes,2017,878100,34
+Nuts nes,2018,892352,34
+Oilseeds nes,1991,31068,35
+Oilseeds nes,1992,42147,35
+Oilseeds nes,1993,62535,35
+Oilseeds nes,1994,91936,35
+Oilseeds nes,1995,101226,35
+Oilseeds nes,1996,157274,35
+Oilseeds nes,1997,220827,35
+Oilseeds nes,1998,503696,35
+Oilseeds nes,1999,802150,35
+Oilseeds nes,2000,1617400,35
+Oilseeds nes,2001,3088400,35
+Oilseeds nes,2002,3773245,35
+Oilseeds nes,2003,4453732,35
+Oilseeds nes,2004,4865250,35
+Oilseeds nes,2005,4989990,35
+Oilseeds nes,2006,6346900,35
+Oilseeds nes,2007,7707600,35
+Oilseeds nes,2008,9308205,35
+Oilseeds nes,2009,11858031,35
+Oilseeds nes,2010,14286548,35
+Oilseeds nes,2011,17213266,35
+Oilseeds nes,2012,17375951,35
+Oilseeds nes,2013,19344679,35
+Oilseeds nes,2014,20442903,35
+Oilseeds nes,2015,22790622,35
+Oilseeds nes,2016,25078569,35
+Oilseeds nes,2017,27210087,35
+Oilseeds nes,2018,29568561,35
+Okra,1991,473143,36
+Okra,1992,906695,36
+Okra,1993,954406,36
+Okra,1994,1051946,36
+Okra,1995,1085892,36
+Okra,1996,1524320,36
+Okra,1997,1772172,36
+Okra,1998,3043714,36
+Okra,1999,1121859,36
+Okra,2000,1645929,36
+Okra,2001,1520240,36
+Okra,2002,1354982,36
+Okra,2003,1897016,36
+Okra,2004,2157558,36
+Okra,2005,2472805,36
+Okra,2006,2533653,36
+Okra,2007,2562704,36
+Okra,2008,2854075,36
+Okra,2009,3014163,36
+Okra,2010,3081549,36
+Okra,2011,3468938,36
+Okra,2012,3719448,36
+Okra,2013,4077391,36
+Okra,2014,4484151,36
+Okra,2015,4728074,36
+Okra,2016,5195644,36
+Okra,2017,5456534,36
+Okra,2018,5735048,36
+"Onions, dry",1991,1678736,37
+"Onions, dry",1992,3666388,37
+"Onions, dry",1993,3828732,37
+"Onions, dry",1994,4671274,37
+"Onions, dry",1995,4907316,37
+"Onions, dry",1996,6832560,37
+"Onions, dry",1997,7953403,37
+"Onions, dry",1998,12192416,37
+"Onions, dry",1999,4587095,37
+"Onions, dry",2000,11638112,37
+"Onions, dry",2001,10206688,37
+"Onions, dry",2002,7859971,37
+"Onions, dry",2003,10955909,37
+"Onions, dry",2004,12357285,37
+"Onions, dry",2005,16800896,37
+"Onions, dry",2006,18706870,37
+"Onions, dry",2007,17619080,37
+"Onions, dry",2008,19748960,37
+"Onions, dry",2009,26839575,37
+"Onions, dry",2010,32320900,37
+"Onions, dry",2011,43457204,37
+"Onions, dry",2012,37871846,37
+"Onions, dry",2013,41376490,37
+"Onions, dry",2014,45757825,37
+"Onions, dry",2015,43991730,37
+"Onions, dry",2016,48928743,37
+"Onions, dry",2017,54550809,37
+"Onions, dry",2018,66761920,37
+Oranges,1991,2912718,38
+Oranges,1992,3125242,38
+Oranges,1993,4682568,38
+Oranges,1994,6332925,38
+Oranges,1995,6011723,38
+Oranges,1996,6255200,38
+Oranges,1997,7463161,38
+Oranges,1998,7485735,38
+Oranges,1999,4420000,38
+Oranges,2000,7685136,38
+Oranges,2001,7077525,38
+Oranges,2002,13883730,38
+Oranges,2003,16837744,38
+Oranges,2004,18912340,38
+Oranges,2005,24059580,38
+Oranges,2006,27447829,38
+Oranges,2007,16347378,38
+Oranges,2008,26919074,38
+Oranges,2009,29101800,38
+Oranges,2010,32207000,38
+Oranges,2011,35015085,38
+Oranges,2012,37887741,38
+Oranges,2013,39319325,38
+Oranges,2014,47386032,38
+Oranges,2015,49815091,38
+Oranges,2016,52368261,38
+Oranges,2017,53438525,38
+Oranges,2018,56889060,38
+Papayas,1991,14724,39
+Papayas,1992,17718,39
+Papayas,1993,24394,39
+Papayas,1994,32602,39
+Papayas,1995,31683,39
+Papayas,1996,33509,39
+Papayas,1997,40672,39
+Papayas,1998,44975,39
+Papayas,1999,24036,39
+Papayas,2000,44447,39
+Papayas,2001,45948,39
+Papayas,2002,98916,39
+Papayas,2003,104967,39
+Papayas,2004,121916,39
+Papayas,2005,121317,39
+Papayas,2006,114810,39
+Papayas,2007,113113,39
+Papayas,2008,132986,39
+Papayas,2009,129884,39
+Papayas,2010,130325,39
+Papayas,2011,149342,39
+Papayas,2012,132775,39
+Papayas,2013,149348,39
+Papayas,2014,156850,39
+Papayas,2015,153509,39
+Papayas,2016,150714,39
+Papayas,2017,168500,39
+Papayas,2018,196129,39
+Peaches and nectarines,1991,349456,40
+Peaches and nectarines,1992,412517,40
+Peaches and nectarines,1993,474289,40
+Peaches and nectarines,1994,392360,40
+Peaches and nectarines,1995,598826,40
+Peaches and nectarines,1996,597507,40
+Peaches and nectarines,1997,532723,40
+Peaches and nectarines,1998,650627,40
+Peaches and nectarines,1999,362175,40
+Peaches and nectarines,2000,406809,40
+Peaches and nectarines,2001,442375,40
+Peaches and nectarines,2002,1678600,40
+Peaches and nectarines,2003,1676906,40
+Peaches and nectarines,2004,1809236,40
+Peaches and nectarines,2005,2460675,40
+Peaches and nectarines,2006,2708108,40
+Peaches and nectarines,2007,2636544,40
+Peaches and nectarines,2008,3012120,40
+Peaches and nectarines,2009,2105766,40
+Peaches and nectarines,2010,2208318,40
+Peaches and nectarines,2011,2693199,40
+Peaches and nectarines,2012,2751526,40
+Peaches and nectarines,2013,3352914,40
+Peaches and nectarines,2014,3882311,40
+Peaches and nectarines,2015,4117310,40
+Peaches and nectarines,2016,4462408,40
+Peaches and nectarines,2017,4771447,40
+Peaches and nectarines,2018,6115998,40
+Pears,1991,145661,41
+Pears,1992,205619,41
+Pears,1993,188323,41
+Pears,1994,214388,41
+Pears,1995,237966,41
+Pears,1996,278459,41
+Pears,1997,264959,41
+Pears,1998,457219,41
+Pears,1999,421298,41
+Pears,2000,481821,41
+Pears,2001,390767,41
+Pears,2002,340515,41
+Pears,2003,435642,41
+Pears,2004,449492,41
+Pears,2005,425145,41
+Pears,2006,451744,41
+Pears,2007,387881,41
+Pears,2008,431498,41
+Pears,2009,394489,41
+Pears,2010,413753,41
+Pears,2011,482343,41
+Pears,2012,474653,41
+Pears,2013,526660,41
+Pears,2014,504962,41
+Pears,2015,492403,41
+Pears,2016,523330,41
+Pears,2017,534984,41
+Pears,2018,556141,41
+"Peas, dry",1991,477468,42
+"Peas, dry",1992,488520,42
+"Peas, dry",1993,527516,42
+"Peas, dry",1994,644823,42
+"Peas, dry",1995,811744,42
+"Peas, dry",1996,783480,42
+"Peas, dry",1997,671175,42
+"Peas, dry",1998,865268,42
+"Peas, dry",1999,717702,42
+"Peas, dry",2000,1149507,42
+"Peas, dry",2001,1043766,42
+"Peas, dry",2002,769573,42
+"Peas, dry",2003,730350,42
+"Peas, dry",2004,793500,42
+"Peas, dry",2005,654690,42
+"Peas, dry",2006,748791,42
+"Peas, dry",2007,1109713,42
+"Peas, dry",2008,1001209,42
+"Peas, dry",2009,988611,42
+"Peas, dry",2010,1126651,42
+"Peas, dry",2011,1405015,42
+"Peas, dry",2012,905096,42
+"Peas, dry",2013,842262,42
+"Peas, dry",2014,868714,42
+"Peas, dry",2015,888692,42
+"Peas, dry",2016,920345,42
+"Peas, dry",2017,925872,42
+"Peas, dry",2018,938079,42
+"Peas, green",1991,155189,43
+"Peas, green",1992,301363,43
+"Peas, green",1993,312274,43
+"Peas, green",1994,380888,43
+"Peas, green",1995,402200,43
+"Peas, green",1996,593621,43
+"Peas, green",1997,789946,43
+"Peas, green",1998,1268469,43
+"Peas, green",1999,452684,43
+"Peas, green",2000,779403,43
+"Peas, green",2001,722399,43
+"Peas, green",2002,640446,43
+"Peas, green",2003,878974,43
+"Peas, green",2004,1020008,43
+"Peas, green",2005,1168358,43
+"Peas, green",2006,1272729,43
+"Peas, green",2007,1538812,43
+"Peas, green",2008,1399816,43
+"Peas, green",2009,1478251,43
+"Peas, green",2010,1560304,43
+"Peas, green",2011,2254498,43
+"Peas, green",2012,2413139,43
+"Peas, green",2013,2897033,43
+"Peas, green",2014,3107221,43
+"Peas, green",2015,3764439,43
+"Peas, green",2016,4178028,43
+"Peas, green",2017,5043616,43
+"Peas, green",2018,5724186,43
+Pigeon peas,1999,73,44
+Pigeon peas,2000,140,44
+Pigeon peas,2001,162,44
+Pigeon peas,2002,96,44
+Pigeon peas,2003,96,44
+Pigeon peas,2004,98,44
+Pigeon peas,2005,99,44
+Pigeon peas,2007,111,44
+Pigeon peas,2008,112,44
+Pigeon peas,2009,155,44
+Pigeon peas,2010,171,44
+Pigeon peas,2011,202,44
+Pigeon peas,2012,202,44
+Pigeon peas,2013,225,44
+Pigeon peas,2014,237,44
+Pigeon peas,2015,237,44
+Pigeon peas,2016,254,44
+Pigeon peas,2017,268,44
+Pigeon peas,2018,284,44
+Pistachios,1991,14933,45
+Pistachios,1992,12241,45
+Pistachios,1993,9498,45
+Pistachios,1994,7615,45
+Pistachios,1995,20449,45
+Pistachios,1996,18427,45
+Pistachios,1997,17163,45
+Pistachios,1998,15260,45
+Pistachios,1999,21052,45
+Pistachios,2000,29539,45
+Pistachios,2001,26448,45
+Pistachios,2002,22895,45
+Pistachios,2003,21981,45
+Pistachios,2004,39728,45
+Pistachios,2005,72440,45
+Pistachios,2006,78989,45
+Pistachios,2007,72926,45
+Pistachios,2008,105894,45
+Pistachios,2009,110448,45
+Pistachios,2010,104639,45
+Pistachios,2011,122648,45
+Pistachios,2012,121760,45
+Pistachios,2013,136384,45
+Pistachios,2014,143940,45
+Pistachios,2015,144113,45
+Pistachios,2016,165255,45
+Pistachios,2017,164874,45
+Pistachios,2018,171105,45
+Plums and sloes,1991,615084,46
+Plums and sloes,1992,516325,46
+Plums and sloes,1993,642210,46
+Plums and sloes,1994,795377,46
+Plums and sloes,1995,769367,46
+Plums and sloes,1996,676585,46
+Plums and sloes,1997,804031,46
+Plums and sloes,1998,1032397,46
+Plums and sloes,1999,752250,46
+Plums and sloes,2000,861219,46
+Plums and sloes,2001,813296,46
+Plums and sloes,2002,1133405,46
+Plums and sloes,2003,1683953,46
+Plums and sloes,2004,1687432,46
+Plums and sloes,2005,1741431,46
+Plums and sloes,2006,1959757,46
+Plums and sloes,2007,2667896,46
+Plums and sloes,2008,2569568,46
+Plums and sloes,2009,2442475,46
+Plums and sloes,2010,2530440,46
+Plums and sloes,2011,2983476,46
+Plums and sloes,2012,2952304,46
+Plums and sloes,2013,3259661,46
+Plums and sloes,2014,3381902,46
+Plums and sloes,2015,3406540,46
+Plums and sloes,2016,3060874,46
+Plums and sloes,2017,3271847,46
+Plums and sloes,2018,3558328,46
+Potatoes,1991,3136819,47
+Potatoes,1992,3075455,47
+Potatoes,1993,3258162,47
+Potatoes,1994,4061051,47
+Potatoes,1995,8064363,47
+Potatoes,1996,9197399,47
+Potatoes,1997,5940391,47
+Potatoes,1998,7560942,47
+Potatoes,1999,10156344,47
+Potatoes,2000,11109506,47
+Potatoes,2001,13098750,47
+Potatoes,2002,10730464,47
+Potatoes,2003,10947938,47
+Potatoes,2004,20278340,47
+Potatoes,2005,23642732,47
+Potatoes,2006,17012800,47
+Potatoes,2007,29687250,47
+Potatoes,2008,26659500,47
+Potatoes,2009,38025126,47
+Potatoes,2010,49233588,47
+Potatoes,2011,64531188,47
+Potatoes,2012,62631625,47
+Potatoes,2013,78138728,47
+Potatoes,2014,62920621,47
+Potatoes,2015,86807908,47
+Potatoes,2016,92451797,47
+Potatoes,2017,94571206,47
+Potatoes,2018,119291907,47
+Pulses nes,1991,3784053,48
+Pulses nes,1992,3388560,48
+Pulses nes,1993,2211090,48
+Pulses nes,1994,3904560,48
+Pulses nes,1995,5928962,48
+Pulses nes,1996,4773414,48
+Pulses nes,1997,3544378,48
+Pulses nes,1998,3841227,48
+Pulses nes,1999,4716120,48
+Pulses nes,2000,5275947,48
+Pulses nes,2001,4969040,48
+Pulses nes,2002,3859885,48
+Pulses nes,2003,5715193,48
+Pulses nes,2004,4628596,48
+Pulses nes,2005,4388703,48
+Pulses nes,2006,5520410,48
+Pulses nes,2007,5994661,48
+Pulses nes,2008,5119957,48
+Pulses nes,2009,5783824,48
+Pulses nes,2010,8418394,48
+Pulses nes,2011,8710066,48
+Pulses nes,2012,10159994,48
+Pulses nes,2013,11250652,48
+Pulses nes,2014,6439712,48
+Pulses nes,2015,9954794,48
+Pulses nes,2016,10107977,48
+Pulses nes,2017,10384362,48
+Pulses nes,2018,10581746,48
+"Pumpkins, squash and gourds",1991,311895,49
+"Pumpkins, squash and gourds",1992,642618,49
+"Pumpkins, squash and gourds",1993,684414,49
+"Pumpkins, squash and gourds",1994,852441,49
+"Pumpkins, squash and gourds",1995,848529,49
+"Pumpkins, squash and gourds",1996,1193775,49
+"Pumpkins, squash and gourds",1997,1406549,49
+"Pumpkins, squash and gourds",1998,2404644,49
+"Pumpkins, squash and gourds",1999,883879,49
+"Pumpkins, squash and gourds",2000,1407667,49
+"Pumpkins, squash and gourds",2001,1286901,49
+"Pumpkins, squash and gourds",2002,1137391,49
+"Pumpkins, squash and gourds",2003,1517045,49
+"Pumpkins, squash and gourds",2004,1703888,49
+"Pumpkins, squash and gourds",2005,1927291,49
+"Pumpkins, squash and gourds",2006,2053599,49
+"Pumpkins, squash and gourds",2007,2205040,49
+"Pumpkins, squash and gourds",2008,2286326,49
+"Pumpkins, squash and gourds",2009,2428880,49
+"Pumpkins, squash and gourds",2010,2551288,49
+"Pumpkins, squash and gourds",2011,3011286,49
+"Pumpkins, squash and gourds",2012,3118318,49
+"Pumpkins, squash and gourds",2013,3424421,49
+"Pumpkins, squash and gourds",2014,3530023,49
+"Pumpkins, squash and gourds",2015,3651182,49
+"Pumpkins, squash and gourds",2016,4022385,49
+"Pumpkins, squash and gourds",2017,4295435,49
+"Pumpkins, squash and gourds",2018,4470109,49
+Rapeseed,1991,1969088,50
+Rapeseed,1992,1966315,50
+Rapeseed,1993,2224175,50
+Rapeseed,1994,2620485,50
+Rapeseed,1995,2890440,50
+Rapeseed,1996,3550275,50
+Rapeseed,1997,3955560,50
+Rapeseed,1998,6077775,50
+Rapeseed,1999,4321913,50
+Rapeseed,2000,4487250,50
+Rapeseed,2001,3412649,50
+Rapeseed,2002,3528140,50
+Rapeseed,2003,4512000,50
+Rapeseed,2004,4642950,50
+Rapeseed,2005,4300000,50
+Rapeseed,2006,3724538,50
+Rapeseed,2007,4956082,50
+Rapeseed,2008,4179515,50
+Rapeseed,2009,4684238,50
+Rapeseed,2010,4869250,50
+Rapeseed,2011,6895982,50
+Rapeseed,2012,6322143,50
+Rapeseed,2013,8672807,50
+Rapeseed,2014,9147279,50
+Rapeseed,2015,8794677,50
+Rapeseed,2016,8913449,50
+Rapeseed,2017,9215549,50
+Rapeseed,2018,12964724,50
+"Rice, paddy",1991,18850519,51
+"Rice, paddy",1992,20449406,51
+"Rice, paddy",1993,27713231,51
+"Rice, paddy",1994,27141188,51
+"Rice, paddy",1995,33021113,51
+"Rice, paddy",1996,41209850,51
+"Rice, paddy",1997,50371125,51
+"Rice, paddy",1998,53041241,51
+"Rice, paddy",1999,62246273,51
+"Rice, paddy",2000,62133638,51
+"Rice, paddy",2001,47946582,51
+"Rice, paddy",2002,66304193,51
+"Rice, paddy",2003,75957044,51
+"Rice, paddy",2004,92036749,51
+"Rice, paddy",2005,105689970,51
+"Rice, paddy",2006,106727186,51
+"Rice, paddy",2007,118854753,51
+"Rice, paddy",2008,149540753,51
+"Rice, paddy",2009,154416300,51
+"Rice, paddy",2010,119530707,51
+"Rice, paddy",2011,196028333,51
+"Rice, paddy",2012,288351191,51
+"Rice, paddy",2013,504516630,51
+"Rice, paddy",2014,598214190,51
+"Rice, paddy",2015,356809354,51
+"Rice, paddy",2016,207534154,51
+"Rice, paddy",2017,238379275,51
+"Rice, paddy",2018,243909739,51
+Roots and tubers nes,1991,2176665,52
+Roots and tubers nes,1992,2028416,52
+Roots and tubers nes,1993,2105272,52
+Roots and tubers nes,1994,2341927,52
+Roots and tubers nes,1995,4714428,52
+Roots and tubers nes,1996,6047938,52
+Roots and tubers nes,1997,4436460,52
+Roots and tubers nes,1998,3837800,52
+Roots and tubers nes,1999,4043892,52
+Roots and tubers nes,2000,4112413,52
+Roots and tubers nes,2001,5492986,52
+Roots and tubers nes,2002,4345757,52
+Roots and tubers nes,2003,4099947,52
+Roots and tubers nes,2004,7754886,52
+Roots and tubers nes,2005,8732215,52
+Roots and tubers nes,2006,9229292,52
+Roots and tubers nes,2007,9994646,52
+Roots and tubers nes,2008,10091015,52
+Roots and tubers nes,2009,10447329,52
+Roots and tubers nes,2010,11402893,52
+Roots and tubers nes,2011,14601513,52
+Roots and tubers nes,2012,14798612,52
+Roots and tubers nes,2013,16623606,52
+Roots and tubers nes,2014,17486669,52
+Roots and tubers nes,2015,17475151,52
+Roots and tubers nes,2016,19106547,52
+Roots and tubers nes,2017,20252491,52
+Roots and tubers nes,2018,21600948,52
+Safflower seed,1991,1089,53
+Safflower seed,1992,3896,53
+Safflower seed,1993,5670,53
+Safflower seed,1994,6291,53
+Safflower seed,1995,7918,53
+Safflower seed,1996,12803,53
+Safflower seed,1997,10036,53
+Safflower seed,1998,831,53
+Safflower seed,1999,1465,53
+Safflower seed,2000,572,53
+Safflower seed,2001,509,53
+Safflower seed,2002,533,53
+Safflower seed,2003,525,53
+Safflower seed,2004,588,53
+Safflower seed,2005,502,53
+Safflower seed,2006,494,53
+Safflower seed,2007,676,53
+Safflower seed,2008,876,53
+Safflower seed,2009,1191,53
+Safflower seed,2010,1005,53
+Safflower seed,2011,895,53
+Safflower seed,2012,920,53
+Safflower seed,2013,673,53
+Safflower seed,2014,649,53
+Safflower seed,2015,680,53
+Safflower seed,2016,695,53
+Safflower seed,2017,455,53
+Sesame seed,1991,430500,54
+Sesame seed,1992,467431,54
+Sesame seed,1993,487842,54
+Sesame seed,1994,700782,54
+Sesame seed,1995,1148286,54
+Sesame seed,1996,1406215,54
+Sesame seed,1997,1080785,54
+Sesame seed,1998,1019134,54
+Sesame seed,1999,1247850,54
+Sesame seed,2000,1886040,54
+Sesame seed,2001,2471983,54
+Sesame seed,2002,563560,54
+Sesame seed,2003,922770,54
+Sesame seed,2004,1124497,54
+Sesame seed,2005,1332546,54
+Sesame seed,2006,1215720,54
+Sesame seed,2007,1344308,54
+Sesame seed,2008,1803868,54
+Sesame seed,2009,1651728,54
+Sesame seed,2010,1623848,54
+Sesame seed,2011,1862690,54
+Sesame seed,2012,1798639,54
+Sesame seed,2013,2224135,54
+Sesame seed,2014,2399774,54
+Sesame seed,2015,2305019,54
+Sesame seed,2016,2642248,54
+Sesame seed,2017,2880996,54
+Sesame seed,2018,3095791,54
+Sorghum,1991,1150563,55
+Sorghum,1992,804600,55
+Sorghum,1993,928813,55
+Sorghum,1994,1290660,55
+Sorghum,1995,1331330,55
+Sorghum,1996,1227520,55
+Sorghum,1997,1329975,55
+Sorghum,1998,1395275,55
+Sorghum,1999,1377500,55
+Sorghum,2000,1518575,55
+Sorghum,2001,1586656,55
+Sorghum,2002,1620000,55
+Sorghum,2003,2345285,55
+Sorghum,2004,1845360,55
+Sorghum,2005,1526000,55
+Sorghum,2006,2566850,55
+Sorghum,2007,2942730,55
+Sorghum,2008,3619000,55
+Sorghum,2009,3898730,55
+Sorghum,2010,3882945,55
+Sorghum,2011,4442722,55
+Sorghum,2012,3974319,55
+Sorghum,2013,4288128,55
+Sorghum,2014,4362203,55
+Sorghum,2015,6114206,55
+Sorghum,2016,6052857,55
+Sorghum,2017,6576779,55
+Sorghum,2018,6780072,55
+Soybeans,1991,5440,56
+Soybeans,1992,8294,56
+Soybeans,1993,16314,56
+Soybeans,1994,36424,56
+Soybeans,1995,49873,56
+Soybeans,1996,23645,56
+Soybeans,1997,79171,56
+Soybeans,1998,111174,56
+Soybeans,1999,22195,56
+Soybeans,2000,22863,56
+Soybeans,2001,19940,56
+Soybeans,2002,21047,56
+Soybeans,2003,6221,56
+Soybeans,2004,6678,56
+Soybeans,2005,5280,56
+Soybeans,2006,10104,56
+Soybeans,2007,816,56
+Soybeans,2008,754,56
+Soybeans,2009,994,56
+Soybeans,2010,1807,56
+Soybeans,2011,3718,56
+Soybeans,2012,2671,56
+Soybeans,2013,3020,56
+Soybeans,2014,3089,56
+Soybeans,2015,1080,56
+Soybeans,2016,2102,56
+Soybeans,2017,1054,56
+Soybeans,2018,1645,56
+Spices nes,1991,356400,57
+Spices nes,1992,470084,57
+Spices nes,1993,599572,57
+Spices nes,1994,794068,57
+Spices nes,1995,801415,57
+Spices nes,1996,889556,57
+Spices nes,1997,972631,57
+Spices nes,1998,1090665,57
+Spices nes,1999,1221866,57
+Spices nes,2000,1365359,57
+Spices nes,2001,1253434,57
+Spices nes,2002,1166533,57
+Spices nes,2003,1252999,57
+Spices nes,2004,1548322,57
+Spices nes,2005,1724020,57
+Spices nes,2006,1623366,57
+Spices nes,2007,1845231,57
+Spices nes,2008,1777026,57
+Spices nes,2009,2148224,57
+Spices nes,2010,2437330,57
+Spices nes,2011,2872709,57
+Spices nes,2012,3479323,57
+Spices nes,2013,4291935,57
+Spices nes,2014,4699170,57
+Spices nes,2015,4636638,57
+Spices nes,2016,5373187,57
+Spices nes,2017,5603524,57
+Spices nes,2018,5840439,57
+Spinach,1991,100400,58
+Spinach,1992,205025,58
+Spinach,1993,223335,58
+Spinach,1994,302280,58
+Spinach,1995,320285,58
+Spinach,1996,423353,58
+Spinach,1997,505923,58
+Spinach,1998,871540,58
+Spinach,1999,305335,58
+Spinach,2000,492203,58
+Spinach,2001,468132,58
+Spinach,2002,415656,58
+Spinach,2003,577779,58
+Spinach,2004,697573,58
+Spinach,2005,778347,58
+Spinach,2006,785167,58
+Spinach,2007,833788,58
+Spinach,2008,834907,58
+Spinach,2009,1060199,58
+Spinach,2010,1116206,58
+Spinach,2011,1426775,58
+Spinach,2012,1487340,58
+Spinach,2013,1536030,58
+Spinach,2014,1659364,58
+Spinach,2015,1690123,58
+Spinach,2016,1856650,58
+Spinach,2017,2021554,58
+Spinach,2018,2108053,58
+Sugar beet,1991,136980,59
+Sugar beet,1992,148261,59
+Sugar beet,1993,114526,59
+Sugar beet,1994,122908,59
+Sugar beet,1995,111643,59
+Sugar beet,1996,128038,59
+Sugar beet,1997,113333,59
+Sugar beet,1998,90832,59
+Sugar beet,1999,139758,59
+Sugar beet,2000,174784,59
+Sugar beet,2001,144914,59
+Sugar beet,2002,111575,59
+Sugar beet,2003,250308,59
+Sugar beet,2004,339805,59
+Sugar beet,2005,170822,59
+Sugar beet,2006,135846,59
+Sugar beet,2007,132444,59
+Sugar beet,2008,102240,59
+Sugar beet,2009,154744,59
+Sugar beet,2011,867,59
+Sugar beet,2012,2814,59
+Sugar beet,2013,3133,59
+Sugar beet,2014,3306,59
+Sugar beet,2015,43034,59
+Sugar beet,2016,58327,59
+Sugar beet,2017,76648,59
+Sugar beet,2018,89772,59
+Sugar cane,1991,13855651,60
+Sugar cane,1992,16400986,60
+Sugar cane,1993,16783973,60
+Sugar cane,1994,20125431,60
+Sugar cane,1995,24291726,60
+Sugar cane,1996,24424038,60
+Sugar cane,1997,25451030,60
+Sugar cane,1998,27667288,60
+Sugar cane,1999,30410296,60
+Sugar cane,2000,27058238,60
+Sugar cane,2001,33707670,60
+Sugar cane,2002,29257334,60
+Sugar cane,2003,28786857,60
+Sugar cane,2004,34767720,60
+Sugar cane,2005,30330712,60
+Sugar cane,2006,29535955,60
+Sugar cane,2007,39406288,60
+Sugar cane,2008,46329855,60
+Sugar cane,2009,37833321,60
+Sugar cane,2010,41228840,60
+Sugar cane,2011,59303433,60
+Sugar cane,2012,200009725,60
+Sugar cane,2013,261407864,60
+Sugar cane,2014,188479374,60
+Sugar cane,2015,270114628,60
+Sugar cane,2016,311364294,60
+Sugar cane,2017,363008249,60
+Sugar cane,2018,309713673,60
+Sunflower seed,1991,216556,61
+Sunflower seed,1992,427959,61
+Sunflower seed,1993,486707,61
+Sunflower seed,1994,393900,61
+Sunflower seed,1995,870788,61
+Sunflower seed,1996,1232044,61
+Sunflower seed,1997,1435976,61
+Sunflower seed,1998,1912972,61
+Sunflower seed,1999,2816490,61
+Sunflower seed,2000,2285533,61
+Sunflower seed,2001,1290424,61
+Sunflower seed,2002,1256928,61
+Sunflower seed,2003,2374610,61
+Sunflower seed,2004,6704548,61
+Sunflower seed,2005,6392452,61
+Sunflower seed,2006,6965500,61
+Sunflower seed,2007,8551704,61
+Sunflower seed,2008,15097350,61
+Sunflower seed,2009,13876071,61
+Sunflower seed,2010,12628546,61
+Sunflower seed,2011,18502445,61
+Sunflower seed,2012,12929609,61
+Sunflower seed,2013,12382739,61
+Sunflower seed,2014,10370513,61
+Sunflower seed,2015,9069634,61
+Sunflower seed,2016,4952260,61
+Sunflower seed,2017,6465409,61
+Sunflower seed,2018,9471000,61
+Sweet potatoes,1991,28996,62
+Sweet potatoes,1992,26458,62
+Sweet potatoes,1993,29140,62
+Sweet potatoes,1994,33596,62
+Sweet potatoes,1995,66115,62
+Sweet potatoes,1996,91190,62
+Sweet potatoes,1997,65999,62
+Sweet potatoes,1998,60598,62
+Sweet potatoes,1999,68491,62
+Sweet potatoes,2000,71366,62
+Sweet potatoes,2001,95291,62
+Sweet potatoes,2002,110355,62
+Sweet potatoes,2003,99109,62
+Sweet potatoes,2004,221638,62
+Sweet potatoes,2005,229481,62
+Sweet potatoes,2006,234068,62
+Sweet potatoes,2007,270659,62
+Sweet potatoes,2008,252518,62
+Sweet potatoes,2009,320857,62
+Sweet potatoes,2010,350768,62
+Sweet potatoes,2011,470670,62
+Sweet potatoes,2012,477068,62
+Sweet potatoes,2013,508489,62
+Sweet potatoes,2014,497835,62
+Sweet potatoes,2015,456192,62
+Sweet potatoes,2016,550395,62
+Sweet potatoes,2017,580120,62
+Sweet potatoes,2018,621189,62
+"Tangerines, mandarins, clementines, satsumas",1991,1059250,63
+"Tangerines, mandarins, clementines, satsumas",1992,995034,63
+"Tangerines, mandarins, clementines, satsumas",1993,1929931,63
+"Tangerines, mandarins, clementines, satsumas",1994,2040150,63
+"Tangerines, mandarins, clementines, satsumas",1995,1668613,63
+"Tangerines, mandarins, clementines, satsumas",1996,1792240,63
+"Tangerines, mandarins, clementines, satsumas",1997,1967994,63
+"Tangerines, mandarins, clementines, satsumas",1998,1842588,63
+"Tangerines, mandarins, clementines, satsumas",1999,1966470,63
+"Tangerines, mandarins, clementines, satsumas",2000,2121379,63
+"Tangerines, mandarins, clementines, satsumas",2001,1955408,63
+"Tangerines, mandarins, clementines, satsumas",2002,3536469,63
+"Tangerines, mandarins, clementines, satsumas",2003,4343672,63
+"Tangerines, mandarins, clementines, satsumas",2004,4871079,63
+"Tangerines, mandarins, clementines, satsumas",2005,6199067,63
+"Tangerines, mandarins, clementines, satsumas",2006,6386926,63
+"Tangerines, mandarins, clementines, satsumas",2007,4164483,63
+"Tangerines, mandarins, clementines, satsumas",2008,6524100,63
+"Tangerines, mandarins, clementines, satsumas",2009,6332280,63
+"Tangerines, mandarins, clementines, satsumas",2010,7053624,63
+"Tangerines, mandarins, clementines, satsumas",2011,7668622,63
+"Tangerines, mandarins, clementines, satsumas",2012,8297622,63
+"Tangerines, mandarins, clementines, satsumas",2013,8611287,63
+"Tangerines, mandarins, clementines, satsumas",2014,9779246,63
+"Tangerines, mandarins, clementines, satsumas",2015,10892476,63
+"Tangerines, mandarins, clementines, satsumas",2016,11415656,63
+"Tangerines, mandarins, clementines, satsumas",2017,11645034,63
+"Tangerines, mandarins, clementines, satsumas",2018,12365704,63
+"Tobacco, unmanufactured",1991,1125000,64
+"Tobacco, unmanufactured",1992,1568043,64
+"Tobacco, unmanufactured",1993,1809090,64
+"Tobacco, unmanufactured",1994,2066987,64
+"Tobacco, unmanufactured",1995,1685016,64
+"Tobacco, unmanufactured",1996,2116391,64
+"Tobacco, unmanufactured",1997,2994880,64
+"Tobacco, unmanufactured",1998,3145439,64
+"Tobacco, unmanufactured",1999,3693107,64
+"Tobacco, unmanufactured",2000,3917157,64
+"Tobacco, unmanufactured",2001,2955098,64
+"Tobacco, unmanufactured",2002,3272724,64
+"Tobacco, unmanufactured",2003,3166997,64
+"Tobacco, unmanufactured",2004,3618150,64
+"Tobacco, unmanufactured",2005,4387961,64
+"Tobacco, unmanufactured",2006,5063469,64
+"Tobacco, unmanufactured",2007,5054298,64
+"Tobacco, unmanufactured",2008,5312072,64
+"Tobacco, unmanufactured",2009,5557718,64
+"Tobacco, unmanufactured",2010,6776353,64
+"Tobacco, unmanufactured",2011,6886596,64
+"Tobacco, unmanufactured",2012,6547002,64
+"Tobacco, unmanufactured",2013,8065417,64
+"Tobacco, unmanufactured",2014,10207609,64
+"Tobacco, unmanufactured",2015,9444318,64
+"Tobacco, unmanufactured",2016,9734248,64
+"Tobacco, unmanufactured",2017,8895783,64
+"Tobacco, unmanufactured",2018,10047362,64
+Tomatoes,1991,514169,65
+Tomatoes,1992,1086064,65
+Tomatoes,1993,1099177,65
+Tomatoes,1994,1312872,65
+Tomatoes,1995,1346040,65
+Tomatoes,1996,1910429,65
+Tomatoes,1997,2218021,65
+Tomatoes,1998,3711726,65
+Tomatoes,1999,1348157,65
+Tomatoes,2000,2015054,65
+Tomatoes,2001,1768797,65
+Tomatoes,2002,1681585,65
+Tomatoes,2003,2368387,65
+Tomatoes,2004,3546616,65
+Tomatoes,2005,4146405,65
+Tomatoes,2006,4624903,65
+Tomatoes,2007,5401939,65
+Tomatoes,2008,5806404,65
+Tomatoes,2009,6346048,65
+Tomatoes,2010,5948566,65
+Tomatoes,2011,7791351,65
+Tomatoes,2012,8490197,65
+Tomatoes,2013,9390790,65
+Tomatoes,2014,10351947,65
+Tomatoes,2015,9784529,65
+Tomatoes,2016,10862839,65
+Tomatoes,2017,11192599,65
+Tomatoes,2018,11394455,65
+"Vegetables, fresh nes",1991,3135391,66
+"Vegetables, fresh nes",1992,5824233,66
+"Vegetables, fresh nes",1993,5814604,66
+"Vegetables, fresh nes",1994,7107152,66
+"Vegetables, fresh nes",1995,7094000,66
+"Vegetables, fresh nes",1996,9607143,66
+"Vegetables, fresh nes",1997,11327800,66
+"Vegetables, fresh nes",1998,17531817,66
+"Vegetables, fresh nes",1999,6378858,66
+"Vegetables, fresh nes",2000,11402407,66
+"Vegetables, fresh nes",2001,10527636,66
+"Vegetables, fresh nes",2002,14067334,66
+"Vegetables, fresh nes",2003,19027674,66
+"Vegetables, fresh nes",2004,20854632,66
+"Vegetables, fresh nes",2005,23052622,66
+"Vegetables, fresh nes",2006,23718111,66
+"Vegetables, fresh nes",2007,25251740,66
+"Vegetables, fresh nes",2008,25111070,66
+"Vegetables, fresh nes",2009,25534670,66
+"Vegetables, fresh nes",2010,26851796,66
+"Vegetables, fresh nes",2011,30096155,66
+"Vegetables, fresh nes",2012,29456953,66
+"Vegetables, fresh nes",2013,33792788,66
+"Vegetables, fresh nes",2014,36085481,66
+"Vegetables, fresh nes",2015,36398147,66
+"Vegetables, fresh nes",2016,40702991,66
+"Vegetables, fresh nes",2017,42031773,66
+"Vegetables, fresh nes",2018,50818102,66
+"Walnuts, with shell",1991,262125,67
+"Walnuts, with shell",1992,272111,67
+"Walnuts, with shell",1993,264938,67
+"Walnuts, with shell",1994,235083,67
+"Walnuts, with shell",1995,667350,67
+"Walnuts, with shell",1996,482413,67
+"Walnuts, with shell",1997,453859,67
+"Walnuts, with shell",1998,414036,67
+"Walnuts, with shell",1999,709284,67
+"Walnuts, with shell",2000,942898,67
+"Walnuts, with shell",2001,958265,67
+"Walnuts, with shell",2002,588003,67
+"Walnuts, with shell",2003,570370,67
+"Walnuts, with shell",2004,559398,67
+"Walnuts, with shell",2005,654148,67
+"Walnuts, with shell",2006,713616,67
+"Walnuts, with shell",2007,790140,67
+"Walnuts, with shell",2008,763320,67
+"Walnuts, with shell",2009,1529760,67
+"Walnuts, with shell",2010,1625700,67
+"Walnuts, with shell",2011,1822961,67
+"Walnuts, with shell",2012,1879829,67
+"Walnuts, with shell",2013,1952378,67
+"Walnuts, with shell",2014,2095420,67
+"Walnuts, with shell",2015,3082475,67
+"Walnuts, with shell",2016,3059116,67
+"Walnuts, with shell",2017,3353156,67
+"Walnuts, with shell",2018,3634839,67
+Watermelons,1991,879093,68
+Watermelons,1992,828592,68
+Watermelons,1993,1278412,68
+Watermelons,1994,1190675,68
+Watermelons,1995,1415565,68
+Watermelons,1996,1909046,68
+Watermelons,1997,1963871,68
+Watermelons,1998,1921539,68
+Watermelons,1999,1747765,68
+Watermelons,2000,1993987,68
+Watermelons,2001,1571215,68
+Watermelons,2002,1788844,68
+Watermelons,2003,1888853,68
+Watermelons,2004,1978292,68
+Watermelons,2005,1855214,68
+Watermelons,2006,2072508,68
+Watermelons,2007,2131742,68
+Watermelons,2008,2443837,68
+Watermelons,2009,2576053,68
+Watermelons,2010,2912555,68
+Watermelons,2011,3247567,68
+Watermelons,2012,2884638,68
+Watermelons,2013,5024918,68
+Watermelons,2014,5096738,68
+Watermelons,2015,5028539,68
+Watermelons,2016,5416992,68
+Watermelons,2017,5844883,68
+Watermelons,2018,6119731,68
+Wheat,1991,49521000,69
+Wheat,1992,57231646,69
+Wheat,1993,65207634,69
+Wheat,1994,71105562,69
+Wheat,1995,80251328,69
+Wheat,1996,101512030,69
+Wheat,1997,123346904,69
+Wheat,1998,135176314,69
+Wheat,1999,137396374,69
+Wheat,2000,173771978,69
+Wheat,2001,149735543,69
+Wheat,2002,160848863,69
+Wheat,2003,175527195,69
+Wheat,2004,208569861,69
+Wheat,2005,240458450,69
+Wheat,2006,228726675,69
+Wheat,2007,252513464,69
+Wheat,2008,238720732,69
+Wheat,2009,586188903,69
+Wheat,2010,585101080,69
+Wheat,2011,746276035,69
+Wheat,2012,570990455,69
+Wheat,2013,703340008,69
+Wheat,2014,786526305,69
+Wheat,2015,740669287,69
+Wheat,2016,768990840,69
+Wheat,2017,845047984,69
+Wheat,2018,840848162,69

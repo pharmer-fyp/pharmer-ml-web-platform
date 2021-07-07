@@ -1,0 +1,75 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Prediction Results</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h5>Prediction Input:</h5>
+                <div>Month Input: <span id="mi"></span></div>
+                <div>Year Input: <span id="yi"></span></div>
+                <h5 class="pt-3">Prediction (Temperature/Degree Celsius):</h5>
+                <div id="prediction_temp"></div>
+                <h5 class="pt-3">Prediction (Rainfall/mm):</h5>
+                <div id="prediction_rainfall"></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container pt-5">
+    <div class="row justify-content-md-center">
+        <div class="col-md-5">
+            <h1>Enter the following variables for Temperature and Rainfall Predictions.</h1>
+            <form action="" id="post-form">
+                {% csrf_token %}
+                <div class="form-group">
+                    <label for="month">Month</label>
+                    <input type="number" step="1" class="form-control" id="month_input" placeholder="Enter a month number between 1 and 12" required>
+                </div>
+                <div class="form-group">
+                    <label for="year">Year</label>
+                    <input type="number" step="1" class="form-control" id="year_input" placeholder="Enter a Year 20xx" required>
+                </div>
+                <button type="submit" value="Submit" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">Submit</button>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).on('submit', '#post-form',function(e){
+        e.preventDefault();
+        $.ajax({
+            type:'POST',
+            url:'{% url "pages:predict_temp_rf" %}',
+            data:{
+                month_input:$('#month_input').val(),
+                year_input:$('#year_input').val(),
+                csrfmiddlewaretoken:$('input[name=csrfmiddlewaretoken]').val(),
+                action: 'post'
+            },
+            success:function(json) {
+                document.forms["post-form"].reset();
+                document.getElementById("prediction_temp").innerHTML = json['result_temp']
+                document.getElementById("prediction_rainfall").innerHTML = json['result_rainfall']
+                document.getElementById("mi").innerHTML = json['month_input']
+                document.getElementById("yi").innerHTML = json['year_input']
+            },
+            error : function(xhr,errmsg,err) {
+
+            }
+        });
+    })
+</script>
+
+{% endblock %}
